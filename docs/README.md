@@ -4,4 +4,6 @@
 
 Run `npm run lint` to attempt to detect errors in your repository.
 
-Add your README content here.
+# EXSM 3934 - CSS3 Fundamentals
+Each demo will be stored in their own subfolders within this repository to make it easier for students to clone and pull classroom demos.
+Email achampag@ualberta.ca for assistance during office hours.
